@@ -1,0 +1,7 @@
+.venv
+web/node_modules
+web/dist
+data
+**/__pycache__
+.pytest_cache
+docs/video
